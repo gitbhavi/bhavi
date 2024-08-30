@@ -3,5 +3,6 @@
 "id":123,
 "description":"tests",
 "email":"test@test.com",
-"last_name":"palanisamy"
+"last_name":"palanisamy",
+  "group":"testent"
 }
