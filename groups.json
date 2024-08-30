@@ -1,5 +1,12 @@
-{
+[
+  {
 "id":1,
 "name": "testent",
 "description":"testentitlement"
+},
+ {
+"id":2,
+"name": "testgroup",
+"description":"testentitlement2"
 }
+]
