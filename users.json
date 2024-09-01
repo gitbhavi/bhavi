@@ -5,7 +5,7 @@
 "description":"tests",
 "email":"test@test.com",
 "last_name":"palanisamy",
-  "group":"testentitlement"
+  "group":"bhentitlement"
 },
 {
 "first_name":"athvi",
@@ -13,7 +13,7 @@
 "description":"tests",
 "email":"test1@test.com",
 "last_name":"palanisamy",
-  "group":"testgroup"
+  "group":"bhgroup"
 },
 {
 "first_name":"anvi",
@@ -21,7 +21,7 @@
 "description":"tests",
 "email":"test2@test.com",
 "last_name":"palanisamy",
-  "group":"testgroup"
+  "group":"bhgroup"
 }
 ]
 
