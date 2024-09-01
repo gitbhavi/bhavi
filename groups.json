@@ -1,17 +1,17 @@
 [
   {
 "id":1,
-"name": "testent",
+"name": "bhent",
 "description":"testentitlement1"
 },
  {
 "id":2,
-"name": "testgroup",
+"name": "bhgroup",
 "description":"testentitlement2"
 },
   {
 "id":3,
-"name": "testentitlement",
+"name": "bhentitlement",
 "description":"testentitlement3"
 }
 ]
