@@ -1,10 +1,5 @@
 [
   {
-"id":1,
-"name": "bhent",
-"description":"testentitlement1"
-},
- {
 "id":2,
 "name": "bhgroup",
 "description":"testentitlement2"
