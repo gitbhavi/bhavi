@@ -5,6 +5,8 @@
 "description":"tests",
 "email":"test1@test.com",
 "last_name":"palanisamy",
+  "job_title":"BOD",
+  "emp_type":"contractor",
   "group":"bhgroup"
 },
 {
@@ -13,7 +15,29 @@
 "description":"tests",
 "email":"test2@test.com",
 "last_name":"palanisamy",
+    "job_title":"",
+  "emp_type":"contractor",
   "group":"bhgroup"
+},
+  {
+"first_name":"athvi1",
+"id":12341,
+"description":"tests1",
+"email":"test11@test.com",
+"last_name":"palanisamy1",
+  "job_title":"BOD",
+  "emp_type":"employee",
+  "group":""
+},
+{
+"first_name":"anvi",
+"id":124,
+"description":"tests",
+"email":"test2@test.com",
+"last_name":"palanisamy",
+    "job_title":"",
+  "emp_type":"employee",
+  "group":""
 }
 ]
 
