@@ -7,7 +7,7 @@
 "last_name":"palanisamy",
   "job_title":"BOD",
   "emp_type":"contractor",
-  "group":"bhgroup"
+  "entname":"bhgroup"
 },
 {
 "first_name":"anvi",
@@ -17,7 +17,7 @@
 "last_name":"palanisamy",
     "job_title":"",
   "emp_type":"contractor",
-  "group":"bhgroup"
+  "entname":"bhgroup"
 },
   {
 "first_name":"athvi1",
@@ -27,7 +27,7 @@
 "last_name":"palanisamy1",
   "job_title":"BOD",
   "emp_type":"employee",
-  "group":""
+  "entname":""
 },
 {
 "first_name":"anvika1",
@@ -37,7 +37,7 @@
 "last_name":"palanisamy",
     "job_title":"",
   "emp_type":"employee",
-  "group":""
+  "entname":"bhentitlement"
 }
 ]
 
